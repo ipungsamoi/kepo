@@ -21,7 +21,7 @@ echo "\n";
 				  echo "\e[93m      ║ 6. VOUCHER GOCAR CASHBACK 5K     ║\n";
 				  echo "\e[93m      ║                                  ║\n";
 				  echo "\e[93m      ║▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬║\n";
-				  echo "\e[93m      ║\e[94m              JAVABYTECODE             \e[93m║\n";
+				  echo "\e[93m      ║\e[94m              sam_oi378             \e[93m║\n";
 				  echo "\e[93m      ╚══════════════════════════════════╝\n";
 	echo "\n";
 function change(){
